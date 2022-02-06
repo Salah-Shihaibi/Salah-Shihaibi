@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Salah-Shihaibi
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning the MERN stack
-- 💞️ I’m looking to collaborate on projects built using the MERN stack
+- 🌱 I’m currently learning the PERN stack
+- 💞️ I’m looking to collaborate on projects built using the PERN stack
 - 📫 salah.shihaibi0@gmail.com
 
 <!---
